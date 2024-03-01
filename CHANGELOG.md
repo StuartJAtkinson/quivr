@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.216 (2024-03-01)
+
+## What's Changed
+* feat: Update chunk_size in File model by @StanGirard in https://github.com/QuivrHQ/quivr/pull/2281
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.215...v0.0.216
+
 ## 0.0.215 (2024-03-01)
 
 ## What's Changed
